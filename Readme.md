@@ -6,8 +6,7 @@ Therefore, I write a binary classifier based on pretrained resnet to solve the p
 
 Usually there are two views in a chest xray case, the frontal and the left view. And my task is to extract the frontal images and copy them to a new directory.
 
-<img src="./demo_img/frontal.png" width = "300" height = "300" alt="frontal" align=center />
-<img src="./demo_img/left.png" width = "300" height = "300" alt="frontal" align=center />
+<img src="./demo_img/frontal.png" width = "300" height = "300" alt="frontal" align=center /><img src="./demo_img/left.png" width = "300" height = "300" alt="frontal" align=center />
 
 
 ## Dataset
